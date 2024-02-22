@@ -1,1 +1,2 @@
 # ngitung
+# cuma kalkulator sederhana
